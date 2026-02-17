@@ -4,11 +4,11 @@
 
 This project analyzes video game industry trends by integrating **user engagement data** with  **global and regional sales performance** . The objective is to identify the key drivers of commercial success by examining genre popularity, platform performance, engagement metrics (ratings, plays, wishlist), and regional market dynamics.
 
-The project combines:
+## 🏆 Project Highlights
 
-- Python for Exploratory Data Analysis (EDA)
-- PostgreSQL for relational database design and advanced SQL querying
-- Power BI for interactive dashboard visualization
+- Analyzed 16,000+ video game sales records
+- Built SQL queries for insight extraction
+- Designed interactive Power BI dashboard with 8 KPIs
 
 ## 🎯 Business Objective
 
@@ -113,6 +113,12 @@ The analysis provides actionable insights for:
 - Demand forecasting using wishlist data
 - Portfolio diversification strategies
 - Monetization optimization for high-engagement genres
+
+## 💡 Business Recommendations
+
+- Publishers should prioritize Action and RPG genres in North America.
+- Wishlist growth could be used as a pre-launch demand indicator.
+- Marketing strategy should differ by region due to genre preference differences.
 
 ### By combining engagement metrics with sales performance, the project enables data-driven decision-making for publishers and stakeholders in the gaming industry.
 
