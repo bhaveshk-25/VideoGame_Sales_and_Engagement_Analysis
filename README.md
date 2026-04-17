@@ -41,7 +41,7 @@ A relational schema was implemented using PostgreSQL.
 
 ![Entity Relationship Diagram](./Database/Database.png)
 
-### Tables Created:
+### Tables :
 - `games_engagement` – User engagement metrics (ratings, plays, wishlist, reviews, etc.)
 - `vgsales` – Regional and global sales data
 - `games_dim` – Dimension table with unique `game_id`
