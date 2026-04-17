@@ -39,6 +39,8 @@ VIDEO GAMES DA
 
 A relational schema was implemented using PostgreSQL.
 
+![Entity Relationship Diagram](./Database/Database.png)
+
 ### Tables Created:
 - `games_engagement` – User engagement metrics (ratings, plays, wishlist, reviews, etc.)
 - `vgsales` – Regional and global sales data
