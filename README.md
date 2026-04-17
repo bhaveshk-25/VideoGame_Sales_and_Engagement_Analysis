@@ -22,6 +22,9 @@ VIDEO GAMES DA
 │   ├── Screenshots
 │   └── VGdashboard.pbix
 │
+├── Database
+|   └── Database.png
+|
 ├── Datasets
 │   ├── games.csv
 │   └── vgsales.csv   
